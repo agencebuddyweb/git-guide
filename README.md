@@ -78,3 +78,5 @@ Each commit must have a message that explains the value added to the project.
 - Element or functionalities are written in camel case (ex: sideMenu addMapForm)
 
 If we make a mistake or have to complete a commit, we will use respectively "correct previous commit" and "complete previous commit".
+
+<em>Credits : This workflow has been made by <a href="http://www.buddyweb.fr">Buddyweb</a>, digitial agency based in Paris.</em>
